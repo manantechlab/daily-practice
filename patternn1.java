@@ -1,4 +1,3 @@
-import java.util.*;
 class patternn1{
     public static void printPattern(int n)
     {
