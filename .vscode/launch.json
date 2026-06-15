@@ -2,6 +2,13 @@
   "version": "0.2.0",
   "configurations": [
     {
+      "type": "java",
+      "name": "reversepolishnotation",
+      "request": "launch",
+      "mainClass": "reversepolishnotation",
+      "projectName": "daily-practice_c28eebca"
+    },
+    {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
       "request": "launch",
